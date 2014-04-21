@@ -1,0 +1,135 @@
+{
+	"name": "diasporaChangemakersLogo003-2.ai",
+	"width": 721,
+	"height": 800,
+	"layers": [
+		{
+			"x": "-2220.29",
+			"y": "1424.00",
+			"r": "-1499.29",
+			"b": "2224.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "rsaLogo.png",
+			"name": "rsaLogo",
+			"type": "png",
+			"filename": "rsaLogo.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "739.71",
+			"y": "1.00",
+			"r": "1460.71",
+			"b": "801.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "diasporaChangemakersLogo002-1-6.png",
+			"name": "diasporaChangemakersLogo002-1-6",
+			"type": "png",
+			"filename": "diasporaChangemakersLogo002-1-6.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.29",
+			"y": "-0.00",
+			"r": "720.71",
+			"b": "800.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "diasporaChangemakersLogo002-1-5.png",
+			"name": "diasporaChangemakersLogo002-1-5",
+			"type": "png",
+			"filename": "diasporaChangemakersLogo002-1-5.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-741.29",
+			"y": "-0.00",
+			"r": "-20.29",
+			"b": "800.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "diasporaChangemakersLogo002-1-7.png",
+			"name": "diasporaChangemakersLogo002-1-7",
+			"type": "png",
+			"filename": "diasporaChangemakersLogo002-1-7.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-1481.29",
+			"y": "-0.00",
+			"r": "-760.29",
+			"b": "800.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "diasporaChangemakersLogo002-1-4.png",
+			"name": "diasporaChangemakersLogo002-1-4",
+			"type": "png",
+			"filename": "diasporaChangemakersLogo002-1-4.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2222.29",
+			"y": "-0.00",
+			"r": "-1501.29",
+			"b": "800.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "diasporaChangemakersLogo002-1-2.png",
+			"name": "diasporaChangemakersLogo002-1-2",
+			"type": "png",
+			"filename": "diasporaChangemakersLogo002-1-2.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2962.29",
+			"y": "-0.00",
+			"r": "-2241.29",
+			"b": "800.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "diasporaChangemakersLogo002-1-1.png",
+			"name": "diasporaChangemakersLogo002-1-1",
+			"type": "png",
+			"filename": "diasporaChangemakersLogo002-1-1.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2962.29",
+			"y": "1428.00",
+			"r": "-2241.29",
+			"b": "2228.00",
+			"width": "721.00",
+			"height": "800.00",
+			"layername": "weAreThePlayMakersLogo.png",
+			"name": "weAreThePlayMakersLogo",
+			"type": "png",
+			"filename": "weAreThePlayMakersLogo.png",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}
