@@ -1,12 +1,12 @@
-## what is diasporaChangemakers.net
+## so, what is diasporaChangemakers.net?
 
-diasporaChangemakers.net is a virtual representation of a network of real people, real changemakers.
+it is a social networking software package which is intended as a virtual representation of a social network of real people, real changemakers.
 
-diasporaChangemakers.net is you.
+simply speaking diasporaChangemakers.net is you.
 
-your network, your community, your product. 
+it is your network, your community, your product. 
 
-you are the designers, the developers and the menagers... and you are also responsible for making coffee
+and you are the designers, the developers, the menagers... and you are also responsible for making coffee ...
 
 so the moment you engage with the community via this platform; the moment you pose a question on the forum; or send me a message asking for a feature you are joining the developers team and are officially granted permission to grow a beard, drink two buckets of coffee a day and start suffering due to internet explorers incompatibility with pretty much everything.
 
