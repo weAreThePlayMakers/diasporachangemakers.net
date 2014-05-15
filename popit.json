@@ -1,0 +1,1258 @@
+{
+  "has_more": true,
+  "next_url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/?page=2",
+  "page": 1,
+  "per_page": 30,
+  "result": [
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095871ec32dd6e00052b",
+      "id": "50c6095871ec32dd6e00052b",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+      ],
+      "name": "tribe hotel",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "tribe-hotel",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095871ec32dd6e00052b"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095c71ec32dd6e000542",
+      "id": "50c6095c71ec32dd6e000542",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 2003,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a7e71ec32dd6e000d77",
+          "id": "50c60a7e71ec32dd6e000d77",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000542",
+          "person_id": "50c60a7d71ec32dd6e000d70",
+          "start_date": 2000,
+          "title": "National Sales Manager",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a7e71ec32dd6e000d77"
+        }
+      ],
+      "name": "Unga Group",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "unga-group",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095c71ec32dd6e000542"
+    },
+    {
+      "category": "education",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095d71ec32dd6e000548",
+      "id": "50c6095d71ec32dd6e000548",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c609b671ec32dd6e00079c",
+          "id": "50c609b671ec32dd6e00079c",
+          "links": [
+          ],
+          "organization_id": "50c6095d71ec32dd6e000548",
+          "person_id": "50c609b671ec32dd6e00079a",
+          "start_date": 2009,
+          "title": "Undergraduate Student",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c609b671ec32dd6e00079c"
+        }
+      ],
+      "name": "UNISA",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "unisa",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095d71ec32dd6e000548"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6096c71ec32dd6e0005aa",
+      "id": "50c6096c71ec32dd6e0005aa",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 2001,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60bed71ec32dd6e001784",
+          "id": "50c60bed71ec32dd6e001784",
+          "links": [
+          ],
+          "organization_id": "50c6096c71ec32dd6e0005aa",
+          "person_id": "50c60bec71ec32dd6e00177c",
+          "start_date": 1999,
+          "title": "Knut Executive Secretary",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60bed71ec32dd6e001784"
+        }
+      ],
+      "name": "West Pokot",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "west-pokot",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6096c71ec32dd6e0005aa"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6091171ec32dd6e00033a",
+      "id": "50c6091171ec32dd6e00033a",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1981,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c6099071ec32dd6e00069c",
+          "id": "50c6099071ec32dd6e00069c",
+          "links": [
+          ],
+          "organization_id": "50c6091171ec32dd6e00033a",
+          "person_id": "50c6098f71ec32dd6e000691",
+          "start_date": 1978,
+          "title": "Foundations & Geotechnical Engineer",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c6099071ec32dd6e00069c"
+        }
+      ],
+      "name": "Masing HEP",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "masing-hep",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6091171ec32dd6e00033a"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6091a71ec32dd6e00037e",
+      "id": "50c6091a71ec32dd6e00037e",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+      ],
+      "name": "Mobil Kenya",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "mobil-kenya",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6091a71ec32dd6e00037e"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6091c71ec32dd6e00038c",
+      "id": "50c6091c71ec32dd6e00038c",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1999,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b5671ec32dd6e0013b0",
+          "id": "50c60b5671ec32dd6e0013b0",
+          "links": [
+          ],
+          "organization_id": "50c6091c71ec32dd6e00038c",
+          "person_id": "50c60b5271ec32dd6e001396",
+          "start_date": 1998,
+          "title": "Mayor",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b5671ec32dd6e0013b0"
+        }
+      ],
+      "name": "Mombasa",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "mombasa",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6091c71ec32dd6e00038c"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6092271ec32dd6e0003b8",
+      "id": "50c6092271ec32dd6e0003b8",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+      ],
+      "name": "mwundo ltd",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "mwundo-ltd",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6092271ec32dd6e0003b8"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6092271ec32dd6e0003bb",
+      "id": "50c6092271ec32dd6e0003bb",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b6871ec32dd6e001426",
+          "id": "50c60b6871ec32dd6e001426",
+          "links": [
+          ],
+          "organization_id": "50c6092271ec32dd6e0003bb",
+          "person_id": "50c60b6771ec32dd6e001423",
+          "start_date": 1995,
+          "title": "Businessman",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b6871ec32dd6e001426"
+        }
+      ],
+      "name": "Nairobi",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "nairobi",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6092271ec32dd6e0003bb"
+    },
+    {
+      "category": "political",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6092671ec32dd6e0003d7",
+      "id": "50c6092671ec32dd6e0003d7",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 2012,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60c2e71ec32dd6e001933",
+          "id": "50c60c2e71ec32dd6e001933",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60c2d71ec32dd6e00192d",
+          "start_date": 2010,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60c2e71ec32dd6e001933"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c609f071ec32dd6e000911",
+          "id": "50c609f071ec32dd6e000911",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c609ef71ec32dd6e00090f",
+          "start_date": 2009,
+          "title": "Secretary General",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c609f071ec32dd6e000911"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c609f071ec32dd6e000914",
+          "id": "50c609f071ec32dd6e000914",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c609ef71ec32dd6e00090f",
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c609f071ec32dd6e000914"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2012,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a1f71ec32dd6e000a3e",
+          "id": "50c60a1f71ec32dd6e000a3e",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60a1e71ec32dd6e000a3a",
+          "start_date": 2007,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a1f71ec32dd6e000a3e"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a7f71ec32dd6e000d7f",
+          "id": "50c60a7f71ec32dd6e000d7f",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60a7f71ec32dd6e000d7d",
+          "start_date": 2007,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a7f71ec32dd6e000d7f"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a7f71ec32dd6e000d80",
+          "id": "50c60a7f71ec32dd6e000d80",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60a7f71ec32dd6e000d7d",
+          "start_date": 2007,
+          "title": "Secretary",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a7f71ec32dd6e000d80"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60aad71ec32dd6e000f46",
+          "id": "50c60aad71ec32dd6e000f46",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60aad71ec32dd6e000f44",
+          "start_date": 2008,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60aad71ec32dd6e000f46"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2007,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60aae71ec32dd6e000f4c",
+          "id": "50c60aae71ec32dd6e000f4c",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60aad71ec32dd6e000f44",
+          "start_date": 2002,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60aae71ec32dd6e000f4c"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2012,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b0571ec32dd6e00118d",
+          "id": "50c60b0571ec32dd6e00118d",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60b0371ec32dd6e001181",
+          "start_date": 2002,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b0571ec32dd6e00118d"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2012,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b1a71ec32dd6e00121f",
+          "id": "50c60b1a71ec32dd6e00121f",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60b1971ec32dd6e001219",
+          "start_date": 2002,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b1a71ec32dd6e00121f"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2012,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60c3f71ec32dd6e0019ab",
+          "id": "50c60c3f71ec32dd6e0019ab",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60c3e71ec32dd6e0019a6",
+          "start_date": 2007,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60c3f71ec32dd6e0019ab"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a5271ec32dd6e000bc5",
+          "id": "50c60a5271ec32dd6e000bc5",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60a5271ec32dd6e000bc1",
+          "start_date": 2010,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a5271ec32dd6e000bc5"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60ac171ec32dd6e000fc7",
+          "id": "50c60ac171ec32dd6e000fc7",
+          "links": [
+          ],
+          "organization_id": "50c6092671ec32dd6e0003d7",
+          "person_id": "50c60ac071ec32dd6e000fc6",
+          "start_date": 2006,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60ac171ec32dd6e000fc7"
+        }
+      ],
+      "name": "NARC - Kenya",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "narc-k",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6092671ec32dd6e0003d7"
+    },
+    {
+      "category": "political",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6092c71ec32dd6e000400",
+      "id": "50c6092c71ec32dd6e000400",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60c0171ec32dd6e00180a",
+          "id": "50c60c0171ec32dd6e00180a",
+          "links": [
+          ],
+          "organization_id": "50c6092c71ec32dd6e000400",
+          "person_id": "50c60c0071ec32dd6e001808",
+          "start_date": 2008,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60c0171ec32dd6e00180a"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2012,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c609c971ec32dd6e000808",
+          "id": "50c609c971ec32dd6e000808",
+          "links": [
+          ],
+          "organization_id": "50c6092c71ec32dd6e000400",
+          "person_id": "50c609c871ec32dd6e000801",
+          "start_date": 2007,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c609c971ec32dd6e000808"
+        }
+      ],
+      "name": "New Ford Kenya",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "nfk",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6092c71ec32dd6e000400"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6093471ec32dd6e00043b",
+      "id": "50c6093471ec32dd6e00043b",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b6f71ec32dd6e00145b",
+          "id": "50c60b6f71ec32dd6e00145b",
+          "links": [
+          ],
+          "organization_id": "50c6093471ec32dd6e00043b",
+          "person_id": "50c60b6e71ec32dd6e001455",
+          "title": "Divisional Veterinary Officer (DVO)",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b6f71ec32dd6e00145b"
+        }
+      ],
+      "name": "Ol Kalou",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "ol-kalou",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6093471ec32dd6e00043b"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6093871ec32dd6e000459",
+      "id": "50c6093871ec32dd6e000459",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60ad071ec32dd6e001028",
+          "id": "50c60ad071ec32dd6e001028",
+          "links": [
+          ],
+          "organization_id": "50c6093871ec32dd6e000459",
+          "person_id": "50c60acf71ec32dd6e001025",
+          "start_date": "2008-09",
+          "title": "Deputy Secretary General",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60ad071ec32dd6e001028"
+        }
+      ],
+      "name": "PEN Kenya",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "pen-kenya",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6093871ec32dd6e000459"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6093b71ec32dd6e000469",
+      "id": "50c6093b71ec32dd6e000469",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1994,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60beb71ec32dd6e001778",
+          "id": "50c60beb71ec32dd6e001778",
+          "links": [
+          ],
+          "organization_id": "50c6093b71ec32dd6e000469",
+          "person_id": "50c60bea71ec32dd6e00176f",
+          "start_date": 1990,
+          "title": "Manager, credit advance",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60beb71ec32dd6e001778"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 1990,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60beb71ec32dd6e001779",
+          "id": "50c60beb71ec32dd6e001779",
+          "links": [
+          ],
+          "organization_id": "50c6093b71ec32dd6e000469",
+          "person_id": "50c60bea71ec32dd6e00176f",
+          "start_date": 1987,
+          "title": "Assistant Manager",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60beb71ec32dd6e001779"
+        }
+      ],
+      "name": "Post bank",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "post-bank",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6093b71ec32dd6e000469"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6093d71ec32dd6e000478",
+      "id": "50c6093d71ec32dd6e000478",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1988,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c609c571ec32dd6e0007f0",
+          "id": "50c609c571ec32dd6e0007f0",
+          "links": [
+          ],
+          "organization_id": "50c6093d71ec32dd6e000478",
+          "person_id": "50c609c471ec32dd6e0007eb",
+          "start_date": 1986,
+          "title": "Chair of Department",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c609c571ec32dd6e0007f0"
+        }
+      ],
+      "name": "Public Law",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "public-law",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6093d71ec32dd6e000478"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6093f71ec32dd6e000488",
+      "id": "50c6093f71ec32dd6e000488",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a8171ec32dd6e000d92",
+          "id": "50c60a8171ec32dd6e000d92",
+          "links": [
+          ],
+          "organization_id": "50c6093f71ec32dd6e000488",
+          "person_id": "50c60a8071ec32dd6e000d8d",
+          "title": "Founder Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a8171ec32dd6e000d92"
+        }
+      ],
+      "name": "REACH",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "reach",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6093f71ec32dd6e000488"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6094071ec32dd6e000490",
+      "id": "50c6094071ec32dd6e000490",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1995,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60ae271ec32dd6e0010ae",
+          "id": "50c60ae271ec32dd6e0010ae",
+          "links": [
+          ],
+          "organization_id": "50c6094071ec32dd6e000490",
+          "person_id": "50c60ae271ec32dd6e0010a7",
+          "start_date": 1994,
+          "title": "Assistant Producer",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60ae271ec32dd6e0010ae"
+        }
+      ],
+      "name": "Reuters",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "reuters",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6094071ec32dd6e000490"
+    },
+    {
+      "category": "political",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6094a71ec32dd6e0004cc",
+      "id": "50c6094a71ec32dd6e0004cc",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a0471ec32dd6e000994",
+          "id": "50c60a0471ec32dd6e000994",
+          "links": [
+          ],
+          "organization_id": "50c6094a71ec32dd6e0004cc",
+          "person_id": "50c60a0471ec32dd6e00098e",
+          "start_date": 2007,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a0471ec32dd6e000994"
+        },
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b1171ec32dd6e0011df",
+          "id": "50c60b1171ec32dd6e0011df",
+          "links": [
+          ],
+          "organization_id": "50c6094a71ec32dd6e0004cc",
+          "person_id": "50c60b1171ec32dd6e0011de",
+          "start_date": 2002,
+          "title": "Member",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b1171ec32dd6e0011df"
+        }
+      ],
+      "name": "Sisi Kwa Sisi",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "sisi",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6094a71ec32dd6e0004cc"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095171ec32dd6e0004fc",
+      "id": "50c6095171ec32dd6e0004fc",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b0171ec32dd6e001177",
+          "id": "50c60b0171ec32dd6e001177",
+          "links": [
+          ],
+          "organization_id": "50c6095171ec32dd6e0004fc",
+          "person_id": "50c60b0171ec32dd6e001175",
+          "start_date": 1974,
+          "title": "Manager Personnel",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b0171ec32dd6e001177"
+        }
+      ],
+      "name": "SUCS/EABL",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "sucseabl",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095171ec32dd6e0004fc"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095171ec32dd6e0004fd",
+      "id": "50c6095171ec32dd6e0004fd",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60adf71ec32dd6e001095",
+          "id": "50c60adf71ec32dd6e001095",
+          "links": [
+          ],
+          "organization_id": "50c6095171ec32dd6e0004fd",
+          "person_id": "50c60ade71ec32dd6e00108e",
+          "title": "Freelance journalist",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60adf71ec32dd6e001095"
+        }
+      ],
+      "name": "Sunday post",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "sunday-post",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095171ec32dd6e0004fd"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095471ec32dd6e00050e",
+      "id": "50c6095471ec32dd6e00050e",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1994,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c609d071ec32dd6e00083a",
+          "id": "50c609d071ec32dd6e00083a",
+          "links": [
+          ],
+          "organization_id": "50c6095471ec32dd6e00050e",
+          "person_id": "50c609cf71ec32dd6e000831",
+          "start_date": 1993,
+          "title": "Systems Analyst",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c609d071ec32dd6e00083a"
+        }
+      ],
+      "name": "Telkom (K)",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "telkom-k",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095471ec32dd6e00050e"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095571ec32dd6e000514",
+      "id": "50c6095571ec32dd6e000514",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60b0f71ec32dd6e0011d3",
+          "id": "50c60b0f71ec32dd6e0011d3",
+          "links": [
+          ],
+          "organization_id": "50c6095571ec32dd6e000514",
+          "person_id": "50c60b0e71ec32dd6e0011cb",
+          "title": "Executive Director",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60b0f71ec32dd6e0011d3"
+        }
+      ],
+      "name": "The Cradle",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "the-cradle",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095571ec32dd6e000514"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095771ec32dd6e000527",
+      "id": "50c6095771ec32dd6e000527",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1993,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a5171ec32dd6e000bbb",
+          "id": "50c60a5171ec32dd6e000bbb",
+          "links": [
+          ],
+          "organization_id": "50c6095771ec32dd6e000527",
+          "person_id": "50c60a5071ec32dd6e000bb0",
+          "start_date": 1986,
+          "title": "Credit Manager and General Manager",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a5171ec32dd6e000bbb"
+        }
+      ],
+      "name": "Trade Bank",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "trade-bank",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095771ec32dd6e000527"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095871ec32dd6e00052a",
+      "id": "50c6095871ec32dd6e00052a",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1984,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a9171ec32dd6e000e2e",
+          "id": "50c60a9171ec32dd6e000e2e",
+          "links": [
+          ],
+          "organization_id": "50c6095871ec32dd6e00052a",
+          "person_id": "50c60a9071ec32dd6e000e26",
+          "start_date": 1975,
+          "title": "Planning Assistant",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a9171ec32dd6e000e2e"
+        }
+      ],
+      "name": "Treasury",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "treasury",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095871ec32dd6e00052a"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095c71ec32dd6e000540",
+      "id": "50c6095c71ec32dd6e000540",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 2011,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60c4471ec32dd6e0019cd",
+          "id": "50c60c4471ec32dd6e0019cd",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000540",
+          "person_id": "50c60c4271ec32dd6e0019c3",
+          "start_date": 2008,
+          "title": "Senior Global Communication Advisor",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60c4471ec32dd6e0019cd"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2006,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60c4471ec32dd6e0019cf",
+          "id": "50c60c4471ec32dd6e0019cf",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000540",
+          "person_id": "50c60c4271ec32dd6e0019c3",
+          "start_date": 2002,
+          "title": "Senior Policy Advisor",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60c4471ec32dd6e0019cf"
+        },
+        {
+          "contact_details": [
+          ],
+          "end_date": 2002,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60c4471ec32dd6e0019d0",
+          "id": "50c60c4471ec32dd6e0019d0",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000540",
+          "person_id": "50c60c4271ec32dd6e0019c3",
+          "start_date": 2001,
+          "title": "Spokesperson",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60c4471ec32dd6e0019d0"
+        }
+      ],
+      "name": "UN",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "un",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095c71ec32dd6e000540"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095c71ec32dd6e000541",
+      "id": "50c6095c71ec32dd6e000541",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60a8e71ec32dd6e000e11",
+          "id": "50c60a8e71ec32dd6e000e11",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000541",
+          "person_id": "50c60a8d71ec32dd6e000e0b",
+          "title": "Field Officer Programme Officer, ITOG",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60a8e71ec32dd6e000e11"
+        }
+      ],
+      "name": "Unesco",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "unesco",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095c71ec32dd6e000541"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095c71ec32dd6e000543",
+      "id": "50c6095c71ec32dd6e000543",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1993,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60bb071ec32dd6e0015ec",
+          "id": "50c60bb071ec32dd6e0015ec",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000543",
+          "person_id": "50c60bae71ec32dd6e0015e2",
+          "start_date": 1990,
+          "title": "Senior Economist",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60bb071ec32dd6e0015ec"
+        }
+      ],
+      "name": "UNICEF",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "unicef",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095c71ec32dd6e000543"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095c71ec32dd6e000544",
+      "id": "50c6095c71ec32dd6e000544",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60bc171ec32dd6e00165c",
+          "id": "50c60bc171ec32dd6e00165c",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000544",
+          "person_id": "50c60bc071ec32dd6e001654",
+          "title": "Presidential Advisor",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60bc171ec32dd6e00165c"
+        }
+      ],
+      "name": "UNIFEM",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "unifem",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095c71ec32dd6e000544"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6095c71ec32dd6e000545",
+      "id": "50c6095c71ec32dd6e000545",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1978,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60c4671ec32dd6e0019dc",
+          "id": "50c60c4671ec32dd6e0019dc",
+          "links": [
+          ],
+          "organization_id": "50c6095c71ec32dd6e000545",
+          "person_id": "50c60c4571ec32dd6e0019d3",
+          "start_date": 1975,
+          "title": "Product Group Marketing Manager",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60c4671ec32dd6e0019dc"
+        }
+      ],
+      "name": "Unilever",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "unilever",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6095c71ec32dd6e000545"
+    },
+    {
+      "category": "other",
+      "contact_details": [
+      ],
+      "html_url": "http://kenyan-politicians.popit.mysociety.org/organizations/50c6096771ec32dd6e00058b",
+      "id": "50c6096771ec32dd6e00058b",
+      "identifiers": [
+      ],
+      "images": [
+      ],
+      "links": [
+      ],
+      "memberships": [
+        {
+          "contact_details": [
+          ],
+          "end_date": 1987,
+          "html_url": "http://kenyan-politicians.popit.mysociety.org/memberships/50c60bb071ec32dd6e0015ee",
+          "id": "50c60bb071ec32dd6e0015ee",
+          "links": [
+          ],
+          "organization_id": "50c6096771ec32dd6e00058b",
+          "person_id": "50c60bae71ec32dd6e0015e2",
+          "start_date": 1984,
+          "title": "Senior Economist",
+          "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/memberships/50c60bb071ec32dd6e0015ee"
+        }
+      ],
+      "name": "USAID",
+      "other_names": [
+      ],
+      "posts": [
+      ],
+      "slug": "usaid",
+      "url": "http://kenyan-politicians.popit.mysociety.org/api/v0.1/organizations/50c6096771ec32dd6e00058b"
+    }
+  ],
+  "total": 1473
+}
